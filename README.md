@@ -51,6 +51,8 @@ openpyxl：3.0.5
 
 #### 六、参考资料
 
+1、[Pandas快速介绍](<https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html>) Pandas团队
+
 1、[Python for Data Analysis](<https://item.jd.com/12398725.html>) Wes McKinney著
 
 2、[Pandas Cookbook](<https://item.jd.com/35889550930.html>) Theodore Petrou著
