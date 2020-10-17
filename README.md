@@ -57,7 +57,9 @@ openpyxl：3.0.5
 
 3、[User Guide](<https://pandas.pydata.org/docs/user_guide/index.html#user-guide>) Pandas开发团队编写
 
-4、[Pandas_Basics](<https://www.learnpython.org/en/Pandas_Basics>) Pandas基础
+4、[Pandas Basics](<https://www.learnpython.org/en/Pandas_Basics>) Pandas基础
+
+5、[Pandas基本介绍](<https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/>)Pandas基本介绍
 
 #### 七、推广
 
